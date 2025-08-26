@@ -1,3 +1,3 @@
-module github.com/dell/goiscsi
+module github.com/khareRajshree/goiscsi
 
 go 1.24
