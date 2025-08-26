@@ -72,7 +72,7 @@ The following example will instantiate a Linux based iSCSI client and Discover t
 import (
     "errors"
     
-    "github.com/dell/goiscsi"
+    "github.com/khareRajshree/goiscsi"
 )
 
 func printTargets(address string) {
@@ -94,7 +94,7 @@ The following example will instantiate a Mock iSCSI client, set the number of ta
 import (
     "errors"
     
-    "github.com/dell/goiscsi"
+    "github.com/khareRajshree/goiscsi"
 )
 
 func printTargets(address string) {
